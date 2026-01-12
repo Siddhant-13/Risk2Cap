@@ -1,0 +1,2 @@
+Date,FloatingRate_USD,SpotRate_EUR,SpotRate_GBP,SpotRate_JPY,StockPrice_SPX,StockPrice_NDX,StockPrice_AAPL,StockPrice_MSFT,StockPrice_GOOGL,RiskFreeRate,FundingRate
+2026-01-12 02:05:18.499938,0.045,1.1,1.27,0.0067,6000,20000,180,420,175,0.05,0.05

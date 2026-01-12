@@ -1,0 +1,26 @@
+CounterpartyID,CounterpartyName,CreditRating,Region,Sector,ExposureLimit
+CP001,JPMorgan,A,Europe,Asset Manager,49054178
+CP002,Goldman Sachs,BB,North America,Hedge Fund,43334882
+CP003,Morgan Stanley,BBB,Europe,Asset Manager,96355424
+CP004,Citi,A,Europe,Hedge Fund,57441466
+CP005,Bank of America,AA,North America,Bank,54583876
+CP006,Deutsche Bank,AA,Europe,Asset Manager,91117865
+CP007,Barclays,AAA,North America,Bank,68203558
+CP008,UBS,BBB,North America,Bank,42407771
+CP009,Credit Suisse,A,Asia,Bank,88122310
+CP010,HSBC,BBB,Asia,Bank,32009224
+CP011,BNP Paribas,AAA,Asia,Bank,56327755
+CP012,Societe Generale,BB,North America,Bank,84018913
+CP013,Nomura,BBB,North America,Hedge Fund,12130144
+CP014,Mizuho,AA,Europe,Bank,9545583
+CP015,MUFG,AA,North America,Bank,59079037
+CP016,Wells Fargo,AA,North America,Bank,59474455
+CP017,RBC,AA,North America,Bank,46542436
+CP018,TD Bank,A,North America,Hedge Fund,51626914
+CP019,Scotiabank,A,Asia,Bank,58933927
+CP020,BMO,AA,North America,Asset Manager,57453338
+CP021,Citadel,A,Europe,Hedge Fund,19881728
+CP022,Millennium,AA,North America,Bank,39045666
+CP023,Bridgewater,AA,Europe,Bank,17722094
+CP024,AQR,A,Europe,Hedge Fund,27178434
+CP025,Two Sigma,A,North America,Hedge Fund,51321408
