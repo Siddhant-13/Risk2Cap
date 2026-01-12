@@ -86,7 +86,7 @@ Allows drill-down into individual trades, including exposure, capital usage, fun
 pip install -r requirements.txt
 python generate_data.py
 streamlit run dashboard.py
-
+```
 ---
 
 ## Disclaimer
